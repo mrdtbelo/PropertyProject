@@ -5,7 +5,7 @@ public class MainProgram {
 
         System.out.println(p1.getAddress() + " - " + p1.getsize() + "m²");
 
-        Property p2 = new Property("Erzbergerstraße 2", 13, 14 );
+        Property p2 = new Property("Erzbergerstraße 2", 13, 1 );
 
 
     }
